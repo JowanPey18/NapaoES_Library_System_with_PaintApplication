@@ -15,7 +15,7 @@ namespace NapaoES.Database
 
         IFirebaseConfig config = new FirebaseConfig
         {
-            AuthSecret = "1YcuY5qGHh1THWcLFor7nmdeAklzANVSMhrPtY0X",
+            AuthSecret = "AIzaSyAYYJlNSGCnSME7IkvsqA_F9wOrpVxefG8",
             BasePath = "https://napaoeslibrarysystem-default-rtdb.firebaseio.com/"
         };
 
